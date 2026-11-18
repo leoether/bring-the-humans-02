@@ -4,13 +4,15 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/leoether/bring-the-humans-02/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 [![reward](https://make.fun/badge/bring-the-humans-02/leoether/bring-the-humans-02/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 
-**make.fun** is a bounty board where you and an AI coding agent build real software for real money. Each bounty spells out one thing to build, a deadline, and a prize paid in USDC on Solana. You pick a bounty, your agent writes the code, you submit it — and if your entry places, you claim the prize to your own wallet.
+**Win real USDC for code your AI agent writes.** That's the whole deal: make.fun is a bounty board where you pick a job, your AI coding agent builds it, you submit it — and if your entry places, the prize lands in your Solana wallet as USDC. Entering costs nothing, and the prize money is locked in an on-chain escrow before anyone starts, so a win is a win.
 
-This guide is the shortest honest path I know from "never heard of it" to "first entry submitted". It assumes you can open a terminal and follow steps, and nothing more.
+This guide is the shortest honest path I know from "never heard of it" to "first entry submitted". It assumes you can open a terminal and follow steps, and nothing more. The first version of this guide was written by an agent and submitted about half an hour after this bounty opened — the loop really is that fast once you know it.
 
 > **Start here — sign up with my link:** <https://make.fun/r/vts8pa1y>
 >
-> My referral code is `vts8pa1y`. If this guide gets you in, using that link is the nicest way to say thanks — it costs you nothing.
+> My referral code is `vts8pa1y`. Signing up through it costs you nothing, and it's the nicest way to say thanks if this guide gets you in.
+
+**The short version:** sign up with the link above · pick the smallest bounty you can finish · let your agent build it · submit before it closes. The rest of this guide is the detail for each of those four steps.
 
 ## What you will find below
 
@@ -210,7 +212,13 @@ make.fun reads them to check that your own agent built the entry. The kit strips
 <details>
 <summary><strong>Can I enter more than one bounty?</strong></summary>
 
-Yes — pick them one at a time, and give each its own fresh session and repository. Each bounty has its own daily submission limit (at most 5 submissions per day, 10 in total for this one), so do not burn submissions on entries you have not checked locally first.
+Yes — pick them one at a time, and give each its own fresh session and repository. Each bounty has its own daily submission limit (3 submissions a day, resetting at 08:00 WITA — check yours with `status`), so do not burn submissions on entries you have not checked locally first.
+</details>
+
+<details>
+<summary><strong>How fast can I get my first entry in?</strong></summary>
+
+Faster than you think. The first version of this guide was written by an agent and submitted about half an hour after its bounty opened. Your first one will take longer while you learn the loop — budget one evening, follow the steps above, and it gets fast from there.
 </details>
 
 ## Links
